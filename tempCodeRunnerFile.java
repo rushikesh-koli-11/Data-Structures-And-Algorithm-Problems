@@ -1,5 +1,3 @@
-if(marks>=33){
-        //     System.out.println("pass");
-        // }else{
-        //     System.out.println("fail");
-        // }
+for(int star=1;star<=row;star++){
+            //     System.out.print("*");
+            // }
